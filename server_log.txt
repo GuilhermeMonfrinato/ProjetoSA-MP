@@ -1,0 +1,96 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:46:30] filterscripts = ""  (string)
+[10:46:30] 
+[10:46:30] Server Plugins
+[10:46:30] --------------
+[10:46:30]  Loading plugin: streamer
+[10:46:30] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[10:46:30]   Loaded.
+[10:46:30]  Loading plugin: mapsandreas
+[10:46:30]   Failed.
+[10:46:30]  Loading plugin: sscanf
+[10:46:30] 
+
+[10:46:30]  ===============================
+
+[10:46:30]       sscanf plugin loaded.     
+
+[10:46:30]          Version:  2.8.3        
+
+[10:46:30]   (c) 2018 Alex "Y_Less" Cole  
+
+[10:46:30]  ===============================
+
+[10:46:30]   Loaded.
+[10:46:30]  Loading plugin: mysql
+[10:46:30]  >> plugin.mysql: R41-4 successfully loaded.
+[10:46:30]   Loaded.
+[10:46:30]  Loaded 3 plugins.
+
+[10:46:30] 
+[10:46:30] Filterscripts
+[10:46:30] ---------------
+[10:46:30]   Loaded 0 filterscripts.
+
+[10:46:30] Script[gamemodes/a.amx]: Run time error 17: "Invalid/unsupported P-code file format"
+[10:46:30] Failed to load 'gamemodes/a.amx' script.
+[10:46:30] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:46:42] filterscripts = ""  (string)
+[10:46:42] 
+[10:46:42] Server Plugins
+[10:46:42] --------------
+[10:46:42]  Loading plugin: streamer
+[10:46:42] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[10:46:42]   Loaded.
+[10:46:42]  Loading plugin: mapsandreas
+[10:46:42]   Failed.
+[10:46:42]  Loading plugin: sscanf
+[10:46:42] 
+
+[10:46:42]  ===============================
+
+[10:46:42]       sscanf plugin loaded.     
+
+[10:46:42]          Version:  2.8.3        
+
+[10:46:42]   (c) 2018 Alex "Y_Less" Cole  
+
+[10:46:42]  ===============================
+
+[10:46:42]   Loaded.
+[10:46:42]  Loading plugin: mysql
+[10:46:42]  >> plugin.mysql: R41-4 successfully loaded.
+[10:46:42]   Loaded.
+[10:46:42]  Loaded 3 plugins.
+
+[10:46:42] 
+[10:46:42] Filterscripts
+[10:46:42] ---------------
+[10:46:42]   Loaded 0 filterscripts.
+
+[10:46:42] Script[gamemodes/a.amx]: Run time error 17: "Invalid/unsupported P-code file format"
+[10:46:42] Failed to load 'gamemodes/a.amx' script.
+[10:46:42] Number of vehicle models: 0
